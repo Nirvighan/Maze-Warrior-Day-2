@@ -1,2 +1,2 @@
-# Maze-Warrior-Day-2
-Today we have completed the game's first level maze .
+# p5.play-boilerplate
+Boiler plate for p5.play
